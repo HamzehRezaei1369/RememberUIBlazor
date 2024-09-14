@@ -1,0 +1,12 @@
+﻿.mainHeader {
+    height: 100px;
+    width: 100%;
+    background-color: #155A9E;
+    border-bottom: 2px solid #FC6D00;
+}
+    .mainHeader img {
+        margin: auto;
+        height: 70px;
+        width: 90px;
+        margin-top: 5px;
+    }
